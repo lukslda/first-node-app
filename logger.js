@@ -1,7 +1,11 @@
-let url = 'http://myrul.com';
+// -------------- shown in class -------------------
 
-log = (message) => {
-    console.log('Hello', message);
-};
+// let url = 'http://myrul.com';
 
-module.exports.log = log;
+// log = (message) => {
+//     console.log('Hello', message);
+// };
+
+// module.exports.log = log;
+
+// -------------------------------------------------
